@@ -6,7 +6,7 @@ Insights Analysis on Onlin Retail Store
 The objective of this project is to analyze data from an online retail store to derive the best insights that can help the business increase its market presence.
 
 ## Dataset  
-*Details about the dataset can be provided here.*
+<a href="https://github.com/SAIABHILASHKARRI37/Online-Retail-Store-DataAnalysis/blob/main/Online%20Retail.xlsx">Data set</a>
 
 ## Process  
 1. **Data Cleaning:**  
