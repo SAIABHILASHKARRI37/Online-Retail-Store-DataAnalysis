@@ -18,6 +18,7 @@ The objective of this project is to analyze data from an online retail store to 
      \[
      \text{Revenue} = \text{Quantity} \times \text{Unit Price}
      \]
+     -DashBoard <a href="https://github.com/SAIABHILASHKARRI37/Online-Retail-Store-DataAnalysis/blob/main/ForagePro1%20(1).pbix">Dashboard</a>
 
 ## Questions  
 1. **Revenue Sales in 2011:**  
@@ -31,6 +32,7 @@ The objective of this project is to analyze data from an online retail store to 
 
 4. **Countries Generating Revenue (Map Visualization):**  
    Visualized the countries generating revenue using geographical maps to provide clear insights.
+   
 
 ## Conclusion  
 This project provided valuable insights for the online retail store, including:  
