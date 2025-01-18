@@ -33,6 +33,8 @@ The objective of this project is to analyze data from an online retail store to 
 4. **Countries Generating Revenue (Map Visualization):**  
    Visualized the countries generating revenue using geographical maps to provide clear insights.
    
+   https://github.com/SAIABHILASHKARRI37/Online-Retail-Store-DataAnalysis/blob/main/Screen%20Recording%202025-01-18%20145526.mp4
+   
 
 ## Conclusion  
 This project provided valuable insights for the online retail store, including:  
